@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+어바웃.. 뭘 기록하면 좋을까요
 
-### More Information
+### 상세 정보
 
-A place to include any other types of information that you'd like to include about yourself.
+그러니까 여기에는 뭔가를 채워 넣어야 할 것 같네요
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+나중에 메일 주소나 이런거 링크 걸어야 겠음
